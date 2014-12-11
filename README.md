@@ -1,4 +1,3 @@
 Exercises
 =========
-TEST
 Code exercises
