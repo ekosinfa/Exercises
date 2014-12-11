@@ -7,5 +7,5 @@ then
   phpunit
   return $?
 else
-  return $retval
+  return $RETVAL
 fi
