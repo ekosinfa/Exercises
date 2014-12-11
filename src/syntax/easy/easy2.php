@@ -6,7 +6,7 @@ function returnNumbers()
 {
     $i = 0;
     
-    while($i <= 100)
+    while($i < 100)
     {
         $i++;
     }
