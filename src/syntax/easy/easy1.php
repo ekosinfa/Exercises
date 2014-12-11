@@ -1,6 +1,10 @@
 <?php
 // Why does this not work?
 
-$variable = 'value'
+function returnValue()
+{
+    $variable = 'value'
+    return $variable;
+}
 
 ?>
