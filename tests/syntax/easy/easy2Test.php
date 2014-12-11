@@ -6,7 +6,7 @@ class easy1Test extends PHPUnit_Framework_TestCase
 {
     public function testVariableIsAssigned()
     {
-        $this->assertEquals(100, returnNumbers();
+        $this->assertEquals(100, returnNumbers());
     }
 }
 
