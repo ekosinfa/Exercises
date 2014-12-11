@@ -3,7 +3,7 @@
 
 function returnValue()
 {
-    $variable = 'value';
+    $variable = 'value'
     return $variable;
 }
 
