@@ -1,0 +1,76 @@
+1. Które z poniższych nie jest prawidłowym komentarzem w PHP?
+
+a) */ echo "comment"; /*
+b) // echo "comment";
+c) /*echo "comment";*/
+d) # echo "comment";
+
+2. Które z poniższych jest prawidłową nazwą zmiennej w PHP?
+
+a) /myVar
+b) &amp;amp;myVar
+c) $!myVar
+d) $myVar
+
+3. Jak połączyć ciągi znaków w PHP?
+
+a) $myVar3 = "aaaa" + "bbb";
+b) $myVar3 = "aaaa" . "bbb";
+c) $myVar3 = "aaaa" join "bbb";
+d) $myVar3 = join("aaaa","bbb");
+
+4. Który z tych operatorów porównuje zmienne?
+
+a) $b <= $b
+b) $b *= $b
+c) $b += $b
+d) $b -= $b
+
+5. Jakiego wyrażenia użyjemy, jeżeli chcemy, aby jeżeli warunek w instrukcji if jest nieprawdziwy wykonał się inny kod?
+
+a) elseif
+b) and if
+c) elif
+d) or if
+
+6. Które z poniższych jest nieprawidłowe?
+
+a) if($x === "7") { }
+b) if($x != 8) { }
+c) if($x NEQ 8) { }
+d) if(!$x) { }
+
+7. Jak zdefiniujemy nową funkcję?
+
+a) function testFunc()
+b) function testFunc{}
+c) function testFunc[]
+d) def testFunc{}
+
+8. Która z pętli for prawidłowo wypisze liczby od 0 do 4?
+
+a) for($i < 5; $i = 0;)
+b) for($i = 0; $i < 5; $i++)
+c) for($i < 5;)
+d) for( $i < 5; $i = 0; $i++)
+
+9. Jak tworzy się nową tablicę?
+
+a) $myArray = new array();
+b) $myArray = Array.create();
+c) $myArray = array();
+d) $myArray = create(array);
+
+10. Która z tablic NIE zawiera danych z przesłanego formularza?
+
+a) $_FORMDATA
+b) $_REQUEST
+c) $_GET
+d) $_POST
+
+11. Jak wyświetlisz dane na ekranie?
+
+a) output ('some content');
+b) echo ('some content');
+c) write('some content');
+d) fwrite('some content');
